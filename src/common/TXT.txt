@@ -1,0 +1,6 @@
+            // <router-link v-for="(music,index) in musicData" 
+            // :key='index' tag="li" to="/">
+            //     //<p class="title">{{music.song.name}}</p>
+            //     //<p>{{music.song.artists[0].name}}</p>
+            //     <p>播放图片</p>
+            // </router-link>
